@@ -53,6 +53,7 @@ div.logo{
 }
 
 nav.desktop ul{
+    margin-top: 4px;
     position: relative;
     float: right;
     list-style-type: none;
